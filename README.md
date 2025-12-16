@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarveshk0" target="blank"><img src="https://img.shields.io/twitter/follow/sarveshk0?logo=twitter&style=for-the-badge" alt="sarveshk0" /></a> </p>
 
-- 🔭 I’m currently working on [Srviingo App](https://play.google.com/store/apps/details?id=com.serviingo.consumer&pcampaignid=web_share)
+- 🔭 I’m currently working on [Serviingo App](https://play.google.com/store/apps/details?id=com.serviingo.consumer&pcampaignid=web_share)
 
 - 🌱 I’m currently learning **NEXT JS and Nest JS and AI automation**
 
