@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NEXT JS and Nest JS and AI automation**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-six-11.vercel.app/](https://my-portfolio-chi-six-11.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-six-11.vercel.app/](https://latest-portfolio-sable.vercel.app/)
 
 - 📫 How to reach me **kumarsarvesh105@gmail.com**
 
